@@ -1,3 +1,3 @@
 # hello_world
 
-This is a good application.
+This is a very good application.
